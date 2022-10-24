@@ -8,4 +8,4 @@ Development server
 - `npm i` (install node modules).
 - `npm run dev` for a dev server. Navigate to http://localhost:4200/. 
 
-Url demo
+Url demo: https://crypto-react-demo.netlify.app/
